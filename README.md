@@ -1,3 +1,13 @@
+# Why
+
+2024-10-22 <br>
+For some reason my site here went down and I still can't seem to get my certificates for it working again.<br>
+Got certificates working at home for all my services, so at least that's cool. Certbot doesn't seem to always want to renew when it should. Something for another day.<br>
+Ah well. Hopefully fixing this site won't take very long.
+
+------------------------------
+
+
 # Holy shit
 
 2024-06-09 <br>
