@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>jonsalter.com</title>
+    <link href="https://jonsalter.com/feed.xml" rel="self" />
+    <link href="https://jonsalter.com" />
+    <updated>2025-04-03T23:07:55+03:00</updated>
+    <author>
+        <name>Jon Salter</name>
+    </author>
+    <id>https://jonsalter.com</id>
+
+    <entry>
+        <title>Huge update</title>
+        <author>
+            <name>Jon Salter</name>
+        </author>
+        <link href="https://jonsalter.com/blog/huge-update/"/>
+        <id>https://jonsalter.com/blog/huge-update/</id>
+
+        <updated>2025-04-03T23:07:55+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Over the Winter a lot has changed both in my homelab and in the world. I'll try and get some pictures of my lab up&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Over the Winter a lot has changed both in my homelab and in the world. I'll try and get some pictures of my lab up before too long. Might make it more interesting. </p>
+<p>I didn't do a lot of tinkering with my lab as I've been busy with family, but I've got a lot of plans with containers and services to start running. I've also gotten a Content Management System (CMS) for creating my website and uploading it easier. The only thing I really need is time so I can get things put together. I suppose that's the key hang up that everyone runs in to.</p>
+<p>More to come.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Why</title>
+        <author>
+            <name>Jon Salter</name>
+        </author>
+        <link href="https://jonsalter.com/blog/why/"/>
+        <id>https://jonsalter.com/blog/why/</id>
+
+        <updated>2024-10-22T21:52:00+03:00</updated>
+            <summary>
+                <![CDATA[
+                    For some reason my site here went down and I still can’t seem to get my certificates for it working again. Got certificates working at&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>For some reason my site here went down and I still can’t seem to get my certificates for it working again.<br>Got certificates working at home for all my services, so at least that’s cool. Certbot doesn’t seem to always want to renew when it should. Something for another day.<br>Ah well. Hopefully fixing this site won’t take very long - it took ten minutes after this post</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Holy shit</title>
+        <author>
+            <name>Jon Salter</name>
+        </author>
+        <link href="https://jonsalter.com/blog/holy-shit/"/>
+        <id>https://jonsalter.com/blog/holy-shit/</id>
+
+        <updated>2024-06-09T21:52:00+03:00</updated>
+            <summary>
+                <![CDATA[
+                    I got certificates working in my home! I know it’s not the most complicated of things to most people, but it’s huge for me. Being&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I got certificates working in my home! I know it’s not the most complicated of things to most people, but it’s huge for me. <br>Being able to access things with trusted and auto-renewing certs is something that’ll make going forward with my homelab easier.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Finally; some progress</title>
+        <author>
+            <name>Jon Salter</name>
+        </author>
+        <link href="https://jonsalter.com/blog/finally-some-progress/"/>
+        <id>https://jonsalter.com/blog/finally-some-progress/</id>
+
+        <updated>2024-05-25T21:51:00+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Looks like I got TLS and my unique domain working. Between home life and other challenges this has taken quite a bit, but it’s there.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Looks like I got TLS and my unique domain working. Between home life and other challenges this has taken quite a bit, but it’s there. <br>Next up: I need certs for my internal domain/network</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Coming Soon</title>
+        <author>
+            <name>Jon Salter</name>
+        </author>
+        <link href="https://jonsalter.com/blog/coming-soon/"/>
+        <id>https://jonsalter.com/blog/coming-soon/</id>
+
+        <updated>2024-03-18T21:37:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                    More will be made once I figure it out. Stay tuned
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    More will be made once I figure it out. Stay tuned
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

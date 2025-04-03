@@ -1,0 +1,83 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jonsalter.com",
+    "description": "",
+    "home_page_url": "https://jonsalter.com",
+    "feed_url": "https://jonsalter.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jon Salter"
+    },
+    "items": [
+        {
+            "id": "https://jonsalter.com/blog/huge-update/",
+            "url": "https://jonsalter.com/blog/huge-update/",
+            "title": "Huge update",
+            "summary": "Over the Winter a lot has changed both in my homelab and in the world. I'll try and get some pictures of my lab up&hellip;",
+            "content_html": "<p>Over the Winter a lot has changed both in my homelab and in the world. I'll try and get some pictures of my lab up before too long. Might make it more interesting. </p>\n<p>I didn't do a lot of tinkering with my lab as I've been busy with family, but I've got a lot of plans with containers and services to start running. I've also gotten a Content Management System (CMS) for creating my website and uploading it easier. The only thing I really need is time so I can get things put together. I suppose that's the key hang up that everyone runs in to.</p>\n<p>More to come.</p>",
+            "author": {
+                "name": "Jon Salter"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-03T23:07:55+03:00",
+            "date_modified": "2025-04-03T23:07:55+03:00"
+        },
+        {
+            "id": "https://jonsalter.com/blog/why/",
+            "url": "https://jonsalter.com/blog/why/",
+            "title": "Why",
+            "summary": "For some reason my site here went down and I still can’t seem to get my certificates for it working again. Got certificates working at&hellip;",
+            "content_html": "<p>For some reason my site here went down and I still can’t seem to get my certificates for it working again.<br>Got certificates working at home for all my services, so at least that’s cool. Certbot doesn’t seem to always want to renew when it should. Something for another day.<br>Ah well. Hopefully fixing this site won’t take very long - it took ten minutes after this post</p>",
+            "author": {
+                "name": "Jon Salter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-22T21:52:00+03:00",
+            "date_modified": "2025-04-03T21:52:56+03:00"
+        },
+        {
+            "id": "https://jonsalter.com/blog/holy-shit/",
+            "url": "https://jonsalter.com/blog/holy-shit/",
+            "title": "Holy shit",
+            "summary": "I got certificates working in my home! I know it’s not the most complicated of things to most people, but it’s huge for me. Being&hellip;",
+            "content_html": "<p>I got certificates working in my home! I know it’s not the most complicated of things to most people, but it’s huge for me. <br>Being able to access things with trusted and auto-renewing certs is something that’ll make going forward with my homelab easier.</p>",
+            "author": {
+                "name": "Jon Salter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-09T21:52:00+03:00",
+            "date_modified": "2025-04-03T21:52:36+03:00"
+        },
+        {
+            "id": "https://jonsalter.com/blog/finally-some-progress/",
+            "url": "https://jonsalter.com/blog/finally-some-progress/",
+            "title": "Finally; some progress",
+            "summary": "Looks like I got TLS and my unique domain working. Between home life and other challenges this has taken quite a bit, but it’s there.",
+            "content_html": "<p>Looks like I got TLS and my unique domain working. Between home life and other challenges this has taken quite a bit, but it’s there. <br>Next up: I need certs for my internal domain/network</p>",
+            "author": {
+                "name": "Jon Salter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-25T21:51:00+03:00",
+            "date_modified": "2025-04-03T21:52:07+03:00"
+        },
+        {
+            "id": "https://jonsalter.com/blog/coming-soon/",
+            "url": "https://jonsalter.com/blog/coming-soon/",
+            "title": "Coming Soon",
+            "summary": "More will be made once I figure it out. Stay tuned",
+            "content_html": "\n  <p>\n    More will be made once I figure it out. Stay tuned\n  </p>",
+            "author": {
+                "name": "Jon Salter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-18T21:37:00+02:00",
+            "date_modified": "2025-04-03T21:51:30+03:00"
+        }
+    ]
+}
