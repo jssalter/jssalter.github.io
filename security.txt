@@ -1,0 +1,3 @@
+Contact: jon@jonsalter.com
+Preferred-Languages: en
+Canonical: https://jonsalter.com/security.txt

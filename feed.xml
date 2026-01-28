@@ -3,12 +3,36 @@
     <title>jonsalter.com</title>
     <link href="https://jonsalter.com/feed.xml" rel="self" />
     <link href="https://jonsalter.com" />
-    <updated>2025-04-03T23:07:55+03:00</updated>
+    <updated>2026-01-28T13:55:37+02:00</updated>
     <author>
         <name>Jon Salter</name>
     </author>
     <id>https://jonsalter.com</id>
 
+    <entry>
+        <title>Full Stack Redux and Talk Preparation</title>
+        <author>
+            <name>Jon Salter</name>
+        </author>
+        <link href="https://jonsalter.com/blog/full-stack-redux-and-talk-preparation/"/>
+        <id>https://jonsalter.com/blog/full-stack-redux-and-talk-preparation/</id>
+
+        <updated>2026-01-28T13:13:26+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I need to be better about consistency with updating here. Among other things. Doing homelab work while also working and having two kids kinda takes&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I need to be better about consistency with updating here. Among other things.</p>
+<p>Doing homelab work while also working and having two kids kinda takes a lot of effort. I'm planning to have a VM with some AI assistance in the coming days to hopefully get things going quicker. So far dealing with Proxmox PCI passthrough has been an unnecessary pain in the dick. Passthrough to a VM is rather trivial, but passthrough to a container requires a PHD in Proxmoxology. Even following guides from Proxmox and others I couldn't get it to work properly. Ah well, soon I hope. </p>
+<p>Currently my lab has 4 nodes, 3 VMs, and 14 containers. Another 34 services are planned and will hopefully be along soon. I'd like to have 40+ services when I give my homelab presentation. </p>
+<p>In order for the next steps: AI service, Linkedin connection with this website, and add on more and more services. </p>
+<p>Then I'll have to update more often than once a year. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Huge update</title>
         <author>
@@ -18,7 +42,7 @@
         <id>https://jonsalter.com/blog/huge-update/</id>
 
         <updated>2025-04-03T23:07:55+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Over the Winter a lot has changed both in my homelab and in the world. I'll try and get some pictures of my lab up&hellip;
                 ]]>
@@ -40,7 +64,7 @@
         <id>https://jonsalter.com/blog/why/</id>
 
         <updated>2024-10-22T21:52:00+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     For some reason my site here went down and I still can’t seem to get my certificates for it working again. Got certificates working at&hellip;
                 ]]>
@@ -60,7 +84,7 @@
         <id>https://jonsalter.com/blog/holy-shit/</id>
 
         <updated>2024-06-09T21:52:00+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     I got certificates working in my home! I know it’s not the most complicated of things to most people, but it’s huge for me. Being&hellip;
                 ]]>
@@ -80,7 +104,7 @@
         <id>https://jonsalter.com/blog/finally-some-progress/</id>
 
         <updated>2024-05-25T21:51:00+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Looks like I got TLS and my unique domain working. Between home life and other challenges this has taken quite a bit, but it’s there.
                 ]]>
@@ -100,7 +124,7 @@
         <id>https://jonsalter.com/blog/coming-soon/</id>
 
         <updated>2024-03-18T21:37:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     More will be made once I figure it out. Stay tuned
                 ]]>
