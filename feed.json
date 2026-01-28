@@ -14,14 +14,14 @@
             "url": "https://jonsalter.com/blog/full-stack-redux-and-talk-preparation/",
             "title": "Full Stack Redux and Talk Preparation",
             "summary": "I need to be better about consistency with updating here. Among other things. Doing homelab work while also working and having two kids kinda takes&hellip;",
-            "content_html": "<p>I need to be better about consistency with updating here. Among other things.</p>\n<p>Doing homelab work while also working and having two kids kinda takes a lot of effort. I'm planning to have a VM with some AI assistance in the coming days to hopefully get things going quicker. So far dealing with Proxmox PCI passthrough has been an unnecessary pain in the dick. Passthrough to a VM is rather trivial, but passthrough to a container requires a PHD in Proxmoxology. Even following guides from Proxmox and others I couldn't get it to work properly. Ah well, soon I hope. </p>\n<p>Currently my lab has 4 nodes, 3 VMs, and 14 containers. Another 34 services are planned and will hopefully be along soon. I'd like to have 40+ services when I give my homelab presentation. </p>\n<p>In order for the next steps: AI service, Linkedin connection with this website, and add on more and more services. </p>\n<p>Then I'll have to update more often than once a year. </p>",
+            "content_html": "<p>I need to be better about consistency with updating here. Among other things.</p>\n<p>Doing homelab work while also working and having two kids kinda takes a lot of effort. I'm planning to have a VM with some AI assistance in the coming days to hopefully get things going quicker. So far dealing with Proxmox PCI passthrough has been an unnecessary pain in the dick. Passthrough to a VM is rather trivial, but passthrough to a container requires a PHD in Proxmoxology. Even following guides from Proxmox and others I couldn't get it to work properly. Ah well, soon I hope. </p>\n<p>In the past year I've had to reflash my entire lab stack. When I did that there were two computers that didn't come back. Rather than try to fix them I e-wasted them which isn't preferable, but I have to be realistic about the amount of time I'd have to invest and how worth it that investment would end up being considering those two computers were both around ten years old. </p>\n<p>Currently my lab has 4 nodes, 3 VMs, and 14 containers. Another 34 services are planned and will hopefully be along soon. I'd like to have 40+ services when I give my homelab presentation. </p>\n<p>In order for the next steps: AI service, Linkedin connection with this website, and add on more and more services. </p>\n<p>Then I'll have to update more often than once a year. </p>",
             "author": {
                 "name": "Jon Salter"
             },
             "tags": [
             ],
             "date_published": "2026-01-28T13:13:26+02:00",
-            "date_modified": "2026-01-28T13:55:37+02:00"
+            "date_modified": "2026-01-28T14:06:34+02:00"
         },
         {
             "id": "https://jonsalter.com/blog/huge-update/",
