@@ -3,12 +3,36 @@
     <title>jonsalter.com</title>
     <link href="https://jonsalter.com/feed.xml" rel="self" />
     <link href="https://jonsalter.com" />
-    <updated>2026-01-28T14:06:34+02:00</updated>
+    <updated>2026-02-02T15:49:26+02:00</updated>
     <author>
         <name>Jon Salter</name>
     </author>
     <id>https://jonsalter.com</id>
 
+    <entry>
+        <title>Is it a hobby when it&#x27;s also work?</title>
+        <author>
+            <name>Jon Salter</name>
+        </author>
+        <link href="https://jonsalter.com/blog/is-it-a-hobby-when-its-also-work/"/>
+        <id>https://jonsalter.com/blog/is-it-a-hobby-when-its-also-work/</id>
+
+        <updated>2026-02-02T15:49:26+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I think so, especially when you consider how much time you have to sacrifice from your family and shit. "Do something you love and you'll&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I think so, especially when you consider how much time you have to sacrifice from your family and shit. "Do something you love and you'll never work a day in your life" is some bullshit. More like you'll work every day because you'll want to do it for play as well as for pay.</p>
+<p>Trying to get services going in my stack and sometimes it's easy as cake, sometimes it's difficult as pie where you have to make the crust, filling, butter, and even pie tin from scratch. Some days you have an oven if you're lucky.</p>
+<p>I suppose I should make some guides for the more complicated of my setup here. Maybe I'll make a section for that someday. I should also make a "to do" as a section so people can see where this is going to go. </p>
+<p>Anyway, for this update: more services are going and more are being added. I'm going to try and focus, mostly, on easy wins so that I can have a more impressive stack. Once that's built up I can shift focus to things that didn't work the first time. Before I do that, however, I need to make sure that I'm getting a few things which I have priority for. Super important things like Floatplane Downloader. </p>
+<p>Talked today with my partner about doing bug bounties for some extra income. Having playgrounds like I do is a good start to that, I think, but I wonder how tough it is to get paid for all that. I'm assuming it won't be so easy. Maybe I'll find out.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Full Stack Redux and Talk Preparation</title>
         <author>
