@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://jonsalter.com/blog/why-do-things-break/",
+            "url": "https://jonsalter.com/blog/why-do-things-break/",
+            "title": "Why do things break?",
+            "summary": "Proxmox clusters and falling apart. Name a more iconic duo. I updated my nodes last week and one of the nodes didn't come back up.",
+            "content_html": "<p>Proxmox clusters and falling apart. Name a more iconic duo.</p>\n<p>I updated my nodes last week and one of the nodes didn't come back up. Okay, strange, but maybe it's some rando bug. The node was  rejecting SSH, but was responding to ping. So time to go local. The error seems to be corosync which is responsible for making sure nodes are communicating together properly. Troubleshooting has brought me to checking corosync.conf as well as corosync.service and the service seems to say that it's trying to run multiple copies of corosync at the same time. I'll have to go and copy the error messages for here later if I remember.</p>\n<p>The best thing is that this node is the node I have Proxmox Backup Server on (which is not recommended for exactly this reason) which means I can't backup any of my clients and, if other times that this has happened are anything to go by, then I won't be able to restore them either. Now that I'm typing this out I'm wondering if maybe PBS is causing the issue. Guess I can try and stop PBS and see if that clears anything up?</p>\n<p>Getting Linkedin to allow RSS feed uploading from my site to my feed apparently takes either a ton of posting or, I'm guessing, buying premium. Everyone under the sun wants subscriptions from us and that's getting real fucking annoying real fucking quick. </p>",
+            "author": {
+                "name": "Jon Salter"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-09T10:10:55+02:00",
+            "date_modified": "2026-02-09T10:10:55+02:00"
+        },
+        {
             "id": "https://jonsalter.com/blog/is-it-a-hobby-when-its-also-work/",
             "url": "https://jonsalter.com/blog/is-it-a-hobby-when-its-also-work/",
             "title": "Is it a hobby when it&#x27;s also work?",
